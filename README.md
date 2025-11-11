@@ -10,7 +10,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______\////
 ```
 
-<img align="right" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBnNndtb2dhbnc4MXBjNTFydDJqZXA0M2dxbnJoYnZnN2h2anQycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" />
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBnNndtb2dhbnc4MXBjNTFydDJqZXA0M2dxbnJoYnZnN2h2anQycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" />
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=23&width=300&vCenter=true&lines=DonghyukLee(이동혁);IloveSKI♥️;NoDeveloper/YesCreator;Audio/TechEnthusiast;Imlivinw/2Dogs🐶" />
 <ul>
   <li> 💻 I'm currently an undergraduate student at <a href="https://www.kaist.ac.kr/kr/">KAIST</a> </li>
