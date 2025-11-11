@@ -38,7 +38,4 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <a href="https://www.linkedin.com/in/donghyuk-lee-140a622b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://www.instagram.com/dhleethan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="mailto:dhlee4832@kaist.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<p align="center">
-  <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
-</p>
 
