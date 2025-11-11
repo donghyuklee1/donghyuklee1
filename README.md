@@ -12,7 +12,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 
 <img align="right" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBnNndtb2dhbnc4MXBjNTFydDJqZXA0M2dxbnJoYnZnN2h2anQycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Timon+Christiansen;Full+stack+Web/App+dev;Open+source+magician" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=16&width=300&vCenter=true&lines=DonghyukLee(이동혁);IloveSKI♥️;Audio&TechEnthusiast" />
 <ul>
   <li> 💻 I'm currently an undergraduate student at <a href="https://ee.kaist.ac.kr/">KAIST EE</a> </li>
   <li> 🎓 Major: Electrical Engineering / Minor: Brain & Cognitive Sciences </li>
