@@ -40,8 +40,5 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <a href="mailto:dhlee4832@kaist.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <p align="center">
   <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
-  <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
-  <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
 </p>
 
