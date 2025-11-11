@@ -41,6 +41,9 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 ## Github Stats & History
 <div align="center">
   <a href="https://github.com/donghyuklee1">
+    <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=donghyuklee1&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Donghyuk's github stats" />
+  </a>
+  <a href="https://github.com/donghyuklee1">
     <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyuklee1&layout=compact&theme=nord&hide_border=true" />
   </a>
 </div>
