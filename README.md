@@ -22,9 +22,19 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 </li>
 </ul>
 
-## Github Stats
+## Languages & Tools
 
-<img width="290" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870070-7f688780-89a8-11eb-9e33-6e7b5ddb9c7a.png" alt="nextjs"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 ## Spotify Live View
 [![Spotify](https://github-spotify-live.vercel.app/api/spotify)](https://open.spotify.com/user/1164145877)
