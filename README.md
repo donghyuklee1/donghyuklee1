@@ -14,7 +14,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=23&width=300&vCenter=true&lines=DonghyukLee(이동혁);IloveSKI♥️;NoDeveloper/YesCreator;Audio/TechEnthusiast;Imlivinw/2Dogs🐶" />
 <ul>
   <li> 💻 I'm currently an undergraduate student at <a href="https://www.kaist.ac.kr/kr/">KAIST</a> </li>
-  <li> 🎓 Major: <a href="https://ee.kaist.ac.kr/?language=eng">Electrical Engineering</a> / Minor: Brain & Cognitive Sciences </li>
+  <li> 🎓 Major: <a href="https://ee.kaist.ac.kr/?language=eng">Electrical Engineering</a> / Minor: Computer Science & Engineering </li>
   <li> ✨ I am interested in optics ML and meaningful AI, and I am capable of full-stack development. </li>
   <li> 🔭 For more details, please visit my <a href="https://donghyuklee1.github.io/webpage/">personal website</a>! </li>
   <li> 📫 How to reach me: <a href="mailto: dhlee4832@kaist.ac.kr">dhlee4832@kaist.ac.kr</a> </li>
