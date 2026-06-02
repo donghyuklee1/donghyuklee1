@@ -9,7 +9,7 @@
 <ul>
   <li> 💻 I'm currently an undergraduate student at <a href="https://www.kaist.ac.kr/kr/">KAIST</a> </li>
   <li> 🎓 Major: <a href="https://ee.kaist.ac.kr/?language=eng">Electrical Engineering</a></li>
-  <li> ✨ I am interested in optics ML and meaningful AI, and I am capable of full-stack development. </li>
+  <li> ✨ I am interested in Computer Vision(especially Flow model) & physical AI, and I am capable of full-stack development. </li>
   <li> 📫 How to reach me: <a href="mailto: dhlee4832@kaist.ac.kr">dhlee4832@kaist.ac.kr</a> </li>
 </li>
 </ul>
