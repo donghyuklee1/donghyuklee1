@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" height="400" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcwdTV5cDR4Ym0xb3dzZzN1cTE5bTlydmt5Y3RucHhkMGM0OGdqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVBR6cLvUjV9C/giphy.gif" />
+  <img width="200" height="200" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcwdTV5cDR4Ym0xb3dzZzN1cTE5bTlydmt5Y3RucHhkMGM0OGdqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVBR6cLvUjV9C/giphy.gif" />
 </div>
 
 <h1 align="center">Donghyuk Lee</h1>
