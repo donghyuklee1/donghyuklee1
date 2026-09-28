@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/link-the-legend-of-zelda-NVBR6cLvUjV9C" height="180" />
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1a1e7ebb-f7dd-4833-bc37-e7325201541b" />
 </div>
 
 <h1 align="center">Donghyuk Lee</h1>
