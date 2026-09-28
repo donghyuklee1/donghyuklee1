@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/1a1e7ebb-f7dd-4833-bc37-e7325201541b" />
+  <img width="400" height="400" alt="image" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTcwdTV5cDR4Ym0xb3dzZzN1cTE5bTlydmt5Y3RucHhkMGM0OGdqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NVBR6cLvUjV9C/giphy.gif" />
 </div>
 
 <h1 align="center">Donghyuk Lee</h1>
@@ -9,8 +9,9 @@
   <a href="https://www.linkedin.com/in/donghyuk127/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-  <a href="https://discord.com/users/your_discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="30" />
+  
+  <a href="mailto:dhlee4832@kaist.ac.kr" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </div>
 
