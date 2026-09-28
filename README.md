@@ -27,20 +27,6 @@
 
 ### Favorite Tech Stack
 
-<blockquote>Tools</blockquote>
-
-<table>
-  <tr>
-    <td align="center"><img src="images/logos/linux_logo.webp" width="40" /><br>Linux</td>
-    <td align="center"><img src="images/logos/i3wm.png" width="40" /><br>i3WM</td>
-    <td align="center"><img src="images/logos/obsidian.png" width="40" /><br>Obsidian</td>
-    <td align="center"><img src="images/logos/notion_logo.png" width="40" /><br>Notion</td>
-    <td align="center"><img src="images/logos/git_logo.png" width="40" /><br>Git</td>
-  </tr>
-</table>
-
-<blockquote>Languages & Frameworks</blockquote>
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python</td>
