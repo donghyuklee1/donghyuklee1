@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Donghyuk Lee</h1>
-<p align="center"><em>Engineering</em></p>
+<p align="center"><em>Engineering is Art</em></p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/donghyuk127/" target="_blank">
