@@ -22,4 +22,5 @@
 - Electrical Engineering Undergrad
 - Generative Models for Science, Physical AI, and Optics
 - Traveler, music lover, and skiiiiiier ⛷️
+- I am currently immersed in excitement while waiting for a new LoZ series..🗡️
 
